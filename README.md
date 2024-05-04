@@ -1,4 +1,4 @@
-#Sudoku Solver
+# Sudoku Solver
 
 Sudoku Solver is a Python application that allows you to solve Sudoku puzzles and generate new puzzles using a graphical user interface (GUI). It uses backtracking algorithms to solve puzzles and provides a user-friendly interface for interacting with the puzzles.
 
